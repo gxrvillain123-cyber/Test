@@ -1,0 +1,79 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 1312 >>
+stream
+BT
+/F1 28 Tf
+1 0 0 1 72 730 Tm
+(Shashwat Sharma) Tj
+/F1 14 Tf
+1 0 0 1 72 700 Tm
+(Frontend Developer | React, Next.js, TypeScript) Tj
+/F1 11 Tf
+1 0 0 1 72 675 Tm
+(Email: hello@example.com | GitHub: github.com | LinkedIn: linkedin.com) Tj
+/F1 16 Tf
+1 0 0 1 72 626 Tm
+(Profile) Tj
+/F1 11 Tf
+1 0 0 1 72 602 Tm
+(Product-minded frontend developer focused on accessible interfaces, fast delivery,) Tj
+/F1 11 Tf
+1 0 0 1 72 586 Tm
+(and maintainable component systems for modern web applications.) Tj
+/F1 16 Tf
+1 0 0 1 72 548 Tm
+(Selected Skills) Tj
+/F1 11 Tf
+1 0 0 1 72 524 Tm
+(React, Next.js, Tailwind CSS, TypeScript, Node.js, PostgreSQL, MongoDB, Figma, Vercel) Tj
+/F1 16 Tf
+1 0 0 1 72 486 Tm
+(Projects) Tj
+/F1 11 Tf
+1 0 0 1 72 462 Tm
+(InsightOps Dashboard - real-time KPI workspace with accessible data cards and alerts.) Tj
+/F1 11 Tf
+1 0 0 1 72 444 Tm
+(LaunchPad Commerce - responsive product discovery and checkout prototype.) Tj
+/F1 11 Tf
+1 0 0 1 72 426 Tm
+(CarePulse Portal - intake, scheduling, and status management experience.) Tj
+/F1 16 Tf
+1 0 0 1 72 388 Tm
+(Build Notes) Tj
+/F1 11 Tf
+1 0 0 1 72 364 Tm
+(Built with a mobile-first Next.js and Tailwind CSS stack, semantic markup, optimized assets,) Tj
+/F1 11 Tf
+1 0 0 1 72 348 Tm
+(keyboard-friendly controls, and recruiter-focused project storytelling.) Tj
+ET
+
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000001605 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1675
+%%EOF
